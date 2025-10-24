@@ -1,0 +1,7 @@
+/* Base resets to work with retro theme in App.css */
+* { box-sizing: border-box; }
+html, body, #root { height: 100%; }
+body { margin: 0; }
+code, pre, kbd, samp {
+  font-family: ui-monospace, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+}
